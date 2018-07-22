@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/thread/GetFileThread.java=GBK
+encoding//src/thread/SendFileThread.java=GBK
+encoding//src/tools/StateCode.java=UTF-8
+encoding//src/tools/StringUtil.java=GBK
